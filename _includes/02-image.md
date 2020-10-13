@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of zoro](https://www.google.com/search?q=zoro&tbm=isch&source=iu&ictx=1&fir=BAHH79pZgLSYAM%252CpNhaoLeTXA4U5M%252C%252Fm%252F02jzqh&vet=1&usg=AI4_-kRweQ55q7o5E8P-HJ-4u-xGjeRVgw&sa=X&ved=2ahUKEwjc14ztvLLsAhVPh-AKHYR3D_cQ_B16BAgjEAM#imgrc=BAHH79pZgLSYAM)
